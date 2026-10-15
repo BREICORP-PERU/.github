@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BREICORP-PERU/.github/main/profile/assets/banner.png" alt="BREICORP - Tecnología que impulsa empresas" width="100%">
+<img src="https://raw.githubusercontent.com/BREICORP-PERU/.github/main/profile/assets/banner.jpg" alt="BREICORP - Tecnología que impulsa empresas" width="100%">
 
 <br>
 
